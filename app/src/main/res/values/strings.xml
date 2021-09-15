@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string-array name="spinnerArray">
+        <item>Main</item>
+        <item>Shopping</item>
+        <item>Work</item>
+
+    </string-array>
+
+</resources>
