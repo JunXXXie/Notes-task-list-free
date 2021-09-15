@@ -26,5 +26,5 @@ Notes-task list free is an Android application develop using Java. The app allow
 </div>
 
 # Google Play
-###### Notes- task list free has been published on Google play. You are welcome to try on it and provide feedback.
-<img src="assets/boardd.jpg" />
+#### Notes- task list free has been published on Google play. You are welcome to try it on and provide feedback.
+<img src="assets/GP.jpg" />
