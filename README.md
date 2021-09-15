@@ -11,17 +11,17 @@ Notes-task list free is an Android application develop using Java. The app allow
 
 #### Classic Theme
 
-<div>
-  <img align="top" width= 33% src="assets/main.jpg" />
-  <img align="top" width= 33% src="assets/history.jpg" />
-  <img align="top" width= 33% src="assets/board.jpg" />
+<div align="center">
+  <img align="top" width= 30% src="assets/main.jpg" />
+  <img align="top" width= 30% src="assets/history.jpg" />
+  <img align="top" width= 30% src="assets/board.jpg" />
 </div>
 
 #### Dark Theme
 
-<div>
-  <img align="top" width= 33% src="assets/maind.jpg" />
-  <img align="top" width= 33% src="assets/historyd.jpg" />
-  <img align="top" width= 33% src="assets/boardd.jpg" />
+<div align="center">
+  <img align="top" width= 30% src="assets/maind.jpg" />
+  <img align="top" width= 30% src="assets/historyd.jpg" />
+  <img align="top" width= 30% src="assets/boardd.jpg" />
 </div>
 
